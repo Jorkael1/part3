@@ -57,4 +57,4 @@ Les routes ont été testées à l'aide de :
 
 ---
 
-_Projet réalisé par [Votre Nom/Pseudo]_
+_Projet réalisé par [jorkael]_
